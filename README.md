@@ -77,7 +77,7 @@
 
 - **LinkedIn:** (https://www.linkedin.com/in/ajala-olushola-76958624/)  
 - **Email:** <sollymankind@yahoo.com>  
-- **Portfolio:** <your-portfolio-url>
+
 
 ---
 
