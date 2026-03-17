@@ -76,7 +76,7 @@
 ## Contact
 
 - **LinkedIn:** (https://www.linkedin.com/in/ajala-olushola-76958624/)  
-- **Email:** <sollymankind@yahoo.com>  
+- **Email:** <ajalaolushola@gmail.com>  
 
 
 ---
