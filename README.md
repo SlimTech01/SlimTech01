@@ -70,6 +70,7 @@
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/SlimTech01/SQL-Injection-Assessment-Report.git) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 | 14-Phishing Email | Phishing Email Incident Response  | [View Repo](https://github.com/SlimTech01/Phishing-Email-Incident-Response.git) |
+| 15-AWS IAM Cloud Security Project | AWS IAM Cloud Security Project | [View Repo](https://github.com/SlimTech01/AWS-IAM-Cloud-Security.git) |
 ---
 
 ## Contact
